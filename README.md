@@ -3,7 +3,7 @@
 Самый-самый простой конвертер валют. Написан исключительно ради опыта работы с функциональными компонентами.
 Да, можно было немного зарефакторить код и сделать его чуть более гибким и красивым, например, вынести кнопки в отдельный массив, потом в рендере промепить и отрисовать, но цель была другая - разобраться с работой useState и useEffect.
 
-## Использованные Технологии
+## Используемые Технологии
 ![React](https://img.shields.io/badge/-React-61daf8?logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=css3&logoColor=white)
